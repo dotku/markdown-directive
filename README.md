@@ -17,5 +17,5 @@ A sample of id
     </div>
 
 ## dependency
-- showdown, render the markdown content.
-- markdown-attr, add class to markdown content
+- [showdown](https://github.com/search?utf8=✓&q=showdown), render the markdown content.
+- [markdown-attr](https://github.com/search?utf8=✓&q=markdown-attr), add class to markdown content
